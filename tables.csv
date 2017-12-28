@@ -1,0 +1,361 @@
+position,teamName,crestURI,playedGames,points,goals,goalsAgainst,goalDifference,wins,draws,losses,homeDraws,homeGoals,homeGoalsagainst,homeLosses,homeWins,awayDraws,awayGoals,awayGoalsagainst,awayLosses,awayWins,league,matchday
+1,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,1,3,4,0,4,1,0,0,0,4,0,0,1,0,0,0,0,0,premier_league,1
+2,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,1,3,3,0,3,1,0,0,0,0,0,0,0,0,3,0,0,1,premier_league,1
+3,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,1,3,2,0,2,1,0,0,0,0,0,0,0,0,2,0,0,1,premier_league,1
+3,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,1,3,2,0,2,1,0,0,0,0,0,0,0,0,2,0,0,1,premier_league,1
+5,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,1,3,4,3,1,1,0,0,0,4,3,0,1,0,0,0,0,0,premier_league,1
+6,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,1,3,3,2,1,1,0,0,0,0,0,0,0,0,3,2,0,1,premier_league,1
+7,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,1,3,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,premier_league,1
+7,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,1,3,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,premier_league,1
+9,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,1,1,3,3,0,0,1,0,1,3,3,0,0,0,0,0,0,0,premier_league,1
+9,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,1,1,3,3,0,0,1,0,0,0,0,0,0,1,3,3,0,0,premier_league,1
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,premier_league,1
+11,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,premier_league,1
+13,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,1,0,3,4,-1,0,0,1,0,0,0,0,0,0,3,4,1,0,premier_league,1
+14,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,1,0,2,3,-1,0,0,1,0,2,3,1,0,0,0,0,0,0,premier_league,1
+15,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,1,0,0,1,-1,0,0,1,0,0,0,0,0,0,0,1,1,0,premier_league,1
+15,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,1,0,0,1,-1,0,0,1,0,0,0,0,0,0,0,1,1,0,premier_league,1
+17,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,1,0,0,2,-2,0,0,1,0,0,2,1,0,0,0,0,0,0,premier_league,1
+17,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,1,0,0,2,-2,0,0,1,0,0,2,1,0,0,0,0,0,0,premier_league,1
+19,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,1,0,0,3,-3,0,0,1,0,0,3,1,0,0,0,0,0,0,premier_league,1
+20,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,1,0,0,4,-4,0,0,1,0,0,0,0,0,0,0,4,1,0,premier_league,1
+1,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,2,6,8,0,8,2,0,0,0,4,0,0,1,0,4,0,0,1,premier_league,2
+2,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,2,6,4,0,4,2,0,0,0,1,0,0,1,0,3,0,0,1,premier_league,2
+3,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,2,6,2,0,2,2,0,0,0,1,0,0,1,0,1,0,0,1,premier_league,2
+4,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,2,4,5,3,2,1,1,0,1,3,3,0,0,0,2,0,0,1,premier_league,2
+5,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,2,4,3,1,2,1,1,0,1,1,1,0,0,0,2,0,0,1,premier_league,2
+6,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,2,4,4,3,1,1,1,0,0,1,0,0,1,1,3,3,0,0,premier_league,2
+7,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,2,4,3,2,1,1,1,0,1,3,2,0,1,0,0,0,0,0,premier_league,2
+8,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,2,4,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,0,premier_league,2
+9,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,2,3,5,4,1,1,0,1,0,2,0,0,1,0,3,4,1,0,premier_league,2
+10,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,2,3,3,2,1,1,0,1,0,1,2,1,0,0,2,0,0,1,premier_league,2
+11,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,2,3,4,4,0,1,0,1,0,4,3,0,1,0,0,1,1,0,premier_league,2
+11,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,2,3,4,4,0,1,0,1,0,2,3,1,0,0,2,1,0,1,premier_league,2
+13,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,2,3,3,3,0,1,0,1,0,0,1,1,0,0,3,2,0,1,premier_league,2
+14,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,2,3,1,1,0,1,0,1,0,1,0,0,1,0,0,1,1,0,premier_league,2
+15,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,2,1,0,4,-4,0,1,1,0,0,4,1,0,1,0,0,0,0,premier_league,2
+16,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,2,0,0,3,-3,0,0,2,0,0,2,1,0,0,0,1,1,0,premier_league,2
+16,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,2,0,0,3,-3,0,0,2,0,0,2,1,0,0,0,1,1,0,premier_league,2
+18,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,2,0,0,4,-4,0,0,2,0,0,3,1,0,0,0,1,1,0,premier_league,2
+18,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,2,0,0,4,-4,0,0,2,0,0,2,1,0,0,0,2,1,0,premier_league,2
+20,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,2,0,2,7,-5,0,0,2,0,0,0,0,0,0,2,7,2,0,premier_league,2
+1,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,3,9,10,0,10,3,0,0,0,6,0,0,2,0,4,0,0,1,premier_league,3
+2,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,3,7,8,3,5,2,1,0,0,5,0,0,2,1,3,3,0,0,premier_league,3
+3,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,3,7,4,0,4,2,1,0,1,1,0,0,1,0,3,0,0,1,premier_league,3
+4,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,3,7,5,2,3,2,1,0,1,1,1,0,0,0,4,1,0,2,premier_league,3
+5,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,3,7,3,1,2,2,1,0,1,2,1,0,1,0,1,0,0,1,premier_league,3
+6,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,3,6,6,4,2,2,0,1,0,4,3,1,1,0,2,1,0,1,premier_league,3
+7,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,3,5,5,3,2,1,2,0,2,3,3,0,0,0,2,0,0,1,premier_league,3
+8,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,3,5,3,2,1,1,2,0,1,3,2,0,1,1,0,0,0,0,premier_league,3
+9,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,3,4,4,3,1,1,1,1,1,2,3,1,0,0,2,0,0,1,premier_league,3
+10,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,3,4,4,4,0,1,1,1,0,0,1,1,0,1,4,3,0,1,premier_league,3
+11,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,3,4,2,2,0,1,1,1,0,1,0,0,1,1,1,2,1,0,premier_league,3
+12,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,3,4,2,3,-1,1,1,1,0,1,0,0,1,1,1,3,1,0,premier_league,3
+13,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,3,4,2,4,-2,1,1,1,0,0,4,1,0,1,2,0,0,1,premier_league,3
+14,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,3,3,3,3,0,1,0,2,0,3,2,1,1,0,0,1,1,0,premier_league,3
+15,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,3,3,5,6,-1,1,0,2,0,2,0,0,1,0,3,6,2,0,premier_league,3
+16,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,3,3,4,8,-4,1,0,2,0,4,3,0,1,0,0,5,2,0,premier_league,3
+17,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,3,1,0,4,-4,0,1,2,0,0,2,1,0,1,0,2,1,0,premier_league,3
+18,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,3,0,1,5,-4,0,0,3,0,1,4,2,0,0,0,1,1,0,premier_league,3
+19,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,3,0,0,6,-6,0,0,3,0,0,5,2,0,0,0,1,1,0,premier_league,3
+20,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,3,0,2,10,-8,0,0,3,0,0,0,0,0,0,2,10,3,0,premier_league,3
+1,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,4,10,12,2,10,3,1,0,0,6,0,0,2,1,6,2,0,1,premier_league,4
+2,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,4,10,10,2,8,3,1,0,1,6,1,0,1,0,4,1,0,2,premier_league,4
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,4,9,8,5,3,3,0,1,0,4,3,1,1,0,4,2,0,2,premier_league,4
+4,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,4,8,7,3,4,2,2,0,2,3,3,0,0,0,4,0,0,2,premier_league,4
+5,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,4,7,7,3,4,2,1,1,1,2,3,1,0,0,5,0,0,2,premier_league,4
+6,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,4,7,4,2,2,2,1,1,1,1,0,0,1,0,3,2,1,1,premier_league,4
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,4,7,5,4,1,2,1,1,0,1,1,1,1,1,4,3,0,1,premier_league,4
+8,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,4,7,8,8,0,2,1,1,0,5,0,0,2,1,3,8,1,0,premier_league,4
+9,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,4,7,4,4,0,2,1,1,1,2,1,0,1,0,2,3,1,1,premier_league,4
+10,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,4,6,4,3,1,2,0,2,0,3,2,1,1,0,1,1,1,1,premier_league,4
+11,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,4,6,7,8,-1,2,0,2,0,7,3,0,2,0,0,5,2,0,premier_league,4
+12,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,4,5,4,4,0,1,2,1,1,3,2,0,1,1,1,2,1,0,premier_league,4
+13,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,4,5,3,4,-1,1,2,1,1,3,4,1,1,1,0,0,0,0,premier_league,4
+14,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,4,4,3,5,-2,1,1,2,0,3,3,1,1,1,0,2,1,0,premier_league,4
+15,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,4,4,2,5,-3,1,1,2,0,0,5,2,0,1,2,0,0,1,premier_league,4
+16,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,4,4,2,6,-4,1,1,2,0,1,3,1,1,1,1,3,1,0,premier_league,4
+17,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,4,3,6,8,-2,1,0,3,0,3,2,1,1,0,3,6,2,0,premier_league,4
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,4,3,4,10,-6,1,0,3,0,2,0,0,1,0,2,10,3,0,premier_league,4
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,4,0,1,8,-7,0,0,4,0,1,4,2,0,0,0,4,2,0,premier_league,4
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,4,0,0,7,-7,0,0,4,0,0,5,2,0,0,0,2,2,0,premier_league,4
+1,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,5,13,16,2,14,4,1,0,0,10,0,0,3,1,6,2,0,1,premier_league,5
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,5,13,16,2,14,4,1,0,1,6,1,0,1,0,10,1,0,3,premier_league,5
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,5,10,8,5,3,3,1,1,1,4,3,1,1,0,4,2,0,2,premier_league,5
+4,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,5,9,6,4,2,3,0,2,0,5,3,1,2,0,1,1,1,1,premier_league,5
+5,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,5,8,7,3,4,2,2,1,2,2,3,1,0,0,5,0,0,2,premier_league,5
+6,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,5,8,5,3,2,2,2,1,2,2,1,0,1,0,3,2,1,1,premier_league,5
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,5,8,6,5,1,2,2,1,0,1,1,1,1,2,5,4,0,1,premier_league,5
+8,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,5,8,9,9,0,2,2,1,1,6,1,0,2,1,3,8,1,0,premier_league,5
+9,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,5,8,4,4,0,2,2,1,1,3,4,1,1,1,1,0,0,1,premier_league,5
+9,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,5,8,4,4,0,2,2,1,2,2,1,0,1,0,2,3,1,1,premier_league,5
+11,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,5,8,7,9,-2,2,2,1,2,3,9,1,0,0,4,0,0,2,premier_league,5
+12,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,5,7,7,8,-1,2,1,2,0,7,3,0,2,1,0,5,2,0,premier_league,5
+13,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,5,5,5,6,-1,1,2,2,1,3,2,0,1,1,2,4,2,0,premier_league,5
+14,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,5,5,2,5,-3,1,2,2,0,0,5,2,0,2,2,0,0,1,premier_league,5
+15,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,5,4,7,9,-2,1,1,3,0,3,2,1,1,1,4,7,2,0,premier_league,5
+16,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,5,4,4,7,-3,1,1,3,0,3,3,1,1,1,1,4,2,0,premier_league,5
+17,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,5,4,4,10,-6,1,1,3,0,2,0,0,1,1,2,10,3,0,premier_league,5
+18,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,5,4,2,10,-8,1,1,3,0,1,3,1,1,1,1,7,2,0,premier_league,5
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,5,3,3,9,-6,1,0,4,0,3,5,2,1,0,0,4,2,0,premier_league,5
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,5,0,0,8,-8,0,0,5,0,0,6,3,0,0,0,2,2,0,premier_league,5
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,6,16,21,2,19,5,1,0,1,11,1,0,2,0,10,1,0,3,premier_league,6
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,6,16,17,2,15,5,1,0,0,10,0,0,3,1,7,2,0,2,premier_league,6
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,6,13,12,5,7,4,1,1,1,4,3,1,1,0,8,2,0,3,premier_league,6
+4,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,6,11,10,5,5,3,2,1,2,2,3,1,0,0,8,2,0,3,premier_league,6
+5,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,6,11,12,11,1,3,2,1,1,6,1,0,2,1,6,10,1,1,premier_league,6
+6,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,6,11,9,10,-1,3,2,1,2,3,9,1,0,0,6,1,0,3,premier_league,6
+7,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,6,10,9,8,1,3,1,2,0,9,3,0,3,1,0,5,2,0,premier_league,6
+8,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,6,9,5,3,2,2,3,1,2,2,1,0,1,1,3,2,1,1,premier_league,6
+9,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,6,9,6,5,1,3,0,3,0,5,3,1,2,0,1,2,2,1,premier_league,6
+9,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,6,9,6,5,1,2,3,1,1,1,1,1,1,2,5,4,0,1,premier_league,6
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,6,8,4,5,-1,2,2,2,1,3,5,2,1,1,1,0,0,1,premier_league,6
+12,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,6,8,4,6,-2,2,2,2,2,2,1,0,1,0,2,5,2,1,premier_league,6
+13,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,6,7,5,7,-2,2,1,3,0,4,3,1,2,1,1,4,2,0,premier_league,6
+14,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,6,7,4,11,-7,2,1,3,0,3,4,1,2,1,1,7,2,0,premier_league,6
+15,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,6,5,3,7,-4,1,2,3,0,1,7,3,0,2,2,0,0,1,premier_league,6
+16,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,6,5,5,10,-5,1,2,3,1,3,6,1,1,1,2,4,2,0,premier_league,6
+17,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,6,4,9,12,-3,1,1,4,0,5,5,2,1,1,4,7,2,0,premier_league,6
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,6,4,6,13,-7,1,1,4,0,4,3,1,1,1,2,10,3,0,premier_league,6
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,6,3,4,11,-7,1,0,5,0,3,5,2,1,0,1,6,3,0,premier_league,6
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,6,0,0,13,-13,0,0,6,0,0,6,3,0,0,0,7,3,0,premier_league,6
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,7,19,22,2,20,6,1,0,1,11,1,0,2,0,11,1,0,4,premier_league,7
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,7,19,21,2,19,6,1,0,0,14,0,0,4,1,7,2,0,2,premier_league,7
+3,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,7,14,14,5,9,4,2,1,2,2,3,1,0,0,12,2,0,4,premier_league,7
+4,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,7,13,12,6,6,4,1,2,1,4,4,2,1,0,8,2,0,3,premier_league,7
+5,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,7,13,11,8,3,4,1,2,0,11,3,0,4,1,0,5,2,0,premier_league,7
+6,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,7,12,7,5,2,3,3,1,1,1,1,1,1,2,6,4,0,2,premier_league,7
+7,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,7,12,13,12,1,3,3,1,1,6,1,0,2,2,7,11,1,1,premier_league,7
+8,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,7,12,11,12,-1,3,3,1,2,3,9,1,0,1,8,3,0,3,premier_league,7
+9,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,7,10,7,6,1,3,1,3,1,6,4,1,2,0,1,2,2,1,premier_league,7
+10,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,7,9,6,8,-2,2,3,2,3,4,3,0,1,0,2,5,2,1,premier_league,7
+11,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,7,9,5,7,-2,2,3,2,2,2,5,1,1,1,3,2,1,1,premier_league,7
+12,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,7,8,5,7,-2,2,2,3,1,3,5,2,1,1,2,2,1,1,premier_league,7
+13,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,7,8,7,11,-4,2,2,3,1,5,7,1,2,1,2,4,2,0,premier_league,7
+14,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,7,7,5,9,-4,2,1,4,0,4,3,1,2,1,1,6,3,0,premier_league,7
+15,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,7,7,7,13,-6,2,1,4,0,5,3,1,2,1,2,10,3,0,premier_league,7
+16,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,7,7,4,12,-8,2,1,4,0,3,5,2,2,1,1,7,2,0,premier_league,7
+17,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,7,5,9,12,-3,1,2,4,0,5,5,2,1,2,4,7,2,0,premier_league,7
+18,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,7,5,3,8,-5,1,2,4,0,1,7,3,0,2,2,1,1,1,premier_league,7
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,7,4,4,11,-7,1,1,5,1,3,5,2,1,0,1,6,3,0,premier_league,7
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,7,0,0,17,-17,0,0,7,0,0,6,3,0,0,0,11,4,0,premier_league,7
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,8,22,29,4,25,7,1,0,1,18,3,0,3,0,11,1,0,4,premier_league,8
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,8,20,21,2,19,6,2,0,0,14,0,0,4,2,7,2,0,2,premier_league,8
+3,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,8,17,15,5,10,5,2,1,2,3,3,1,1,0,12,2,0,4,premier_league,8
+4,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,8,15,13,13,0,4,3,1,2,5,10,1,1,1,8,3,0,3,premier_league,8
+5,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,8,13,13,8,5,4,1,3,1,4,4,2,1,0,9,4,1,3,premier_league,8
+6,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,8,13,12,10,2,4,1,3,0,11,3,0,4,1,1,7,3,0,premier_league,8
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,8,13,8,6,2,3,4,1,2,2,2,1,1,2,6,4,0,2,premier_league,8
+8,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,8,13,13,12,1,3,4,1,2,6,1,0,2,2,7,11,1,1,premier_league,8
+9,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,8,11,9,8,1,3,2,3,1,6,4,1,2,1,3,4,2,1,premier_league,8
+10,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,8,10,7,9,-2,2,4,2,3,4,3,0,1,1,3,6,2,1,premier_league,8
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,8,9,7,9,-2,2,3,3,2,5,7,2,1,1,2,2,1,1,premier_league,8
+12,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,8,9,5,9,-4,2,3,3,2,2,5,1,1,1,3,4,2,1,premier_league,8
+13,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,8,8,5,8,-3,2,2,4,0,3,7,3,1,2,2,1,1,1,premier_league,8
+14,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,8,8,6,10,-4,2,2,4,1,5,4,1,2,1,1,6,3,0,premier_league,8
+15,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,8,8,8,14,-6,2,2,4,0,5,3,1,2,2,3,11,3,0,premier_league,8
+16,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,8,8,5,13,-8,2,2,4,0,3,5,2,2,2,2,8,2,0,premier_league,8
+17,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,8,8,9,18,-9,2,2,4,1,5,7,1,2,1,4,11,3,0,premier_league,8
+18,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,8,6,10,13,-3,1,3,4,1,6,6,2,1,2,4,7,2,0,premier_league,8
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,8,4,4,12,-8,1,1,6,1,3,5,2,1,0,1,7,4,0,premier_league,8
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,8,3,2,18,-16,1,0,7,0,2,7,3,1,0,0,11,4,0,premier_league,8
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,9,25,32,4,28,8,1,0,1,21,3,0,4,0,11,1,0,4,premier_league,9
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,9,20,22,4,18,6,2,1,0,14,0,0,4,2,8,4,1,2,premier_league,9
+3,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,9,20,19,6,13,6,2,1,2,7,4,1,2,0,12,2,0,4,premier_league,9
+4,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,9,16,17,10,7,5,1,3,1,8,6,2,2,0,9,4,1,3,premier_league,9
+5,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,9,16,17,12,5,5,1,3,0,11,3,0,4,1,6,9,3,1,premier_league,9
+6,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,9,15,15,17,-2,4,3,2,2,5,10,1,1,1,10,7,1,3,premier_league,9
+7,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,9,14,10,8,2,4,2,3,1,7,4,1,3,1,3,4,2,1,premier_league,9
+8,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,9,13,8,9,-1,3,4,2,2,2,2,1,1,2,6,7,1,2,premier_league,9
+9,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,9,13,14,16,-2,3,4,2,2,6,1,0,2,2,8,15,2,1,premier_league,9
+10,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,9,12,8,9,-1,3,3,3,2,6,7,2,2,1,2,2,1,1,premier_league,9
+11,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,9,12,7,10,-3,3,3,3,2,4,6,1,2,1,3,4,2,1,premier_league,9
+12,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,9,11,9,10,-1,3,2,4,1,5,4,1,2,1,4,6,3,1,premier_league,9
+13,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,9,10,7,10,-3,2,4,3,3,4,3,0,1,1,3,7,3,1,premier_league,9
+14,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,9,9,12,14,-2,2,3,4,1,6,6,2,1,2,6,8,2,1,premier_league,9
+15,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,9,8,6,10,-4,2,2,5,0,4,9,4,1,2,2,1,1,1,premier_league,9
+16,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,9,8,8,17,-9,2,2,5,0,5,6,2,2,2,3,11,3,0,premier_league,9
+17,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,9,8,10,20,-10,2,2,5,1,6,9,2,2,1,4,11,3,0,premier_league,9
+18,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,9,8,7,18,-11,2,2,5,0,5,10,3,2,2,2,8,2,0,premier_league,9
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,9,7,6,13,-7,2,1,6,1,3,5,2,1,0,3,8,4,1,premier_league,9
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,9,3,2,19,-17,1,0,8,0,2,7,3,1,0,0,12,5,0,premier_league,9
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,10,28,35,6,29,9,1,0,1,21,3,0,4,0,14,3,0,5,premier_league,10
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,10,23,23,4,19,7,2,1,0,15,0,0,5,2,8,4,1,2,premier_league,10
+3,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,10,20,19,7,12,6,2,2,2,7,4,1,2,0,12,3,1,4,premier_league,10
+4,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,10,19,18,10,8,6,1,3,1,8,6,2,2,0,10,4,1,4,premier_league,10
+5,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,10,19,19,13,6,6,1,3,0,13,4,0,5,1,6,9,3,1,premier_league,10
+6,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,10,16,17,16,1,4,4,2,2,9,1,0,3,2,8,15,2,1,premier_league,10
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,10,16,9,9,0,4,4,2,2,3,2,1,2,2,6,7,1,2,premier_league,10
+8,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,10,15,15,18,-3,4,3,3,2,5,11,2,1,1,10,7,1,3,premier_league,10
+9,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,10,14,10,9,1,4,2,4,1,7,4,1,3,1,3,5,3,1,premier_league,10
+10,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,10,13,9,10,-1,3,4,3,2,6,7,2,2,2,3,3,1,1,premier_league,10
+11,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,10,12,14,14,0,3,3,4,1,8,6,2,2,2,6,8,2,1,premier_league,10
+12,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,10,12,10,11,-1,3,3,4,2,6,5,1,2,1,4,6,3,1,premier_league,10
+13,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,10,12,7,13,-6,3,3,4,2,4,6,1,2,1,3,7,3,1,premier_league,10
+14,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,10,11,11,20,-9,3,2,5,1,6,9,2,2,1,5,11,3,1,premier_league,10
+15,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,10,10,9,13,-4,2,4,4,3,6,6,1,1,1,3,7,3,1,premier_league,10
+16,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,10,9,10,19,-9,2,3,5,0,5,6,2,2,3,5,13,3,0,premier_league,10
+17,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,10,8,7,12,-5,2,2,6,0,4,9,4,1,2,3,3,2,1,premier_league,10
+18,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,10,8,7,20,-13,2,2,6,0,5,10,3,2,2,2,10,3,0,premier_league,10
+19,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,10,7,6,14,-8,2,1,7,1,3,6,3,1,0,3,8,4,1,premier_league,10
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,10,4,4,21,-17,1,1,8,1,4,9,3,1,0,0,12,5,0,premier_league,10
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,11,31,38,7,31,10,1,0,1,24,4,0,5,0,14,3,0,5,premier_league,11
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,11,23,23,5,18,7,2,2,0,15,0,0,5,2,8,5,2,2,premier_league,11
+3,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,11,23,20,7,13,7,2,2,2,8,4,1,3,0,12,3,1,4,premier_league,11
+4,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,11,22,19,10,9,7,1,3,1,9,6,2,3,0,10,4,1,4,premier_league,11
+5,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,11,19,21,17,4,5,4,2,2,9,1,0,3,2,12,16,2,2,premier_league,11
+6,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,11,19,20,16,4,6,1,4,0,13,4,0,5,1,7,12,4,1,premier_league,11
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,11,19,10,9,1,5,4,2,2,3,2,1,2,2,7,7,1,3,premier_league,11
+8,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,11,15,11,11,0,4,3,4,2,6,5,1,2,1,5,6,3,2,premier_league,11
+9,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,11,15,17,21,-4,4,3,4,2,5,11,2,1,1,12,10,2,3,premier_league,11
+10,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,11,15,8,13,-5,4,3,4,2,5,6,1,3,1,3,7,3,1,premier_league,11
+11,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,11,14,10,10,0,4,2,5,1,7,5,2,3,1,3,5,3,1,premier_league,11
+12,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,11,13,16,16,0,3,4,4,1,8,6,2,2,3,8,10,2,1,premier_league,11
+13,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,11,13,9,11,-2,3,4,4,2,6,8,3,2,2,3,3,1,1,premier_league,11
+14,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,11,12,13,22,-9,3,3,5,2,8,11,2,2,1,5,11,3,1,premier_league,11
+15,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,11,11,10,22,-12,3,2,6,0,8,12,3,3,2,2,10,3,0,premier_league,11
+16,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,11,10,9,14,-5,2,4,5,3,6,6,1,1,1,3,8,4,1,premier_league,11
+17,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,11,10,7,14,-7,3,1,7,1,3,6,3,1,0,4,8,4,2,premier_league,11
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,11,9,11,23,-12,2,3,6,0,6,10,3,2,3,5,13,3,0,premier_league,11
+19,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,11,8,7,13,-6,2,2,7,0,4,10,5,1,2,3,3,2,1,premier_league,11
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,11,4,4,22,-18,1,1,9,1,4,9,3,1,0,0,13,6,0,premier_league,11
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,12,34,40,7,33,11,1,0,1,24,4,0,5,0,16,3,0,6,premier_league,12
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,12,26,27,6,21,8,2,2,0,19,1,0,6,2,8,5,2,2,premier_league,12
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,12,25,23,10,13,8,1,3,1,9,6,2,3,0,14,4,1,5,premier_league,12
+4,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,12,23,20,9,11,7,2,3,2,8,4,1,3,0,12,5,2,4,premier_league,12
+5,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,12,22,24,17,7,6,4,2,2,12,1,0,4,2,12,16,2,2,premier_league,12
+6,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,12,22,22,16,6,7,1,4,0,15,4,0,6,1,7,12,4,1,premier_league,12
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,12,22,12,9,3,6,4,2,2,5,2,1,3,2,7,7,1,3,premier_league,12
+8,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,12,18,19,21,-2,5,3,4,2,7,11,2,2,1,12,10,2,3,premier_league,12
+9,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,12,16,13,13,0,4,4,4,3,8,7,1,2,1,5,6,3,2,premier_league,12
+10,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,12,15,8,17,-9,4,3,5,2,5,6,1,3,1,3,11,4,1,premier_league,12
+11,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,12,14,11,14,-3,4,2,6,1,7,5,2,3,1,4,9,4,1,premier_league,12
+12,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,12,13,16,18,-2,3,4,5,1,8,8,3,2,3,8,10,2,1,premier_league,12
+13,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,12,13,11,14,-3,4,1,7,1,7,6,3,2,0,4,8,4,2,premier_league,12
+14,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,12,13,9,14,-5,3,4,5,2,6,8,3,2,2,3,6,2,1,premier_league,12
+15,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,12,13,15,24,-9,3,4,5,2,8,11,2,2,2,7,13,3,1,premier_league,12
+16,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,12,12,12,24,-12,3,3,6,0,8,12,3,3,3,4,12,3,0,premier_league,12
+17,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,12,10,9,18,-9,2,4,6,3,6,10,2,1,1,3,8,4,1,premier_league,12
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,12,9,11,25,-14,2,3,7,0,6,10,3,2,3,5,15,4,0,premier_league,12
+19,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,12,8,7,15,-8,2,2,8,0,4,10,5,1,2,3,5,3,1,premier_league,12
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,12,5,6,24,-18,1,2,9,2,6,11,3,1,0,0,13,6,0,premier_league,12
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,13,37,42,8,34,12,1,0,1,24,4,0,5,0,18,4,0,7,premier_league,13
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,13,29,28,6,22,9,2,2,0,20,1,0,7,2,8,5,2,2,premier_league,13
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,13,26,24,11,13,8,2,3,1,9,6,2,3,1,15,5,1,5,premier_league,13
+4,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,13,25,23,16,7,8,1,4,0,15,4,0,6,1,8,12,4,2,premier_league,13
+5,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,13,24,21,10,11,7,3,3,3,9,5,1,3,0,12,5,2,4,premier_league,13
+6,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,13,23,25,18,7,6,5,2,3,13,2,0,4,2,12,16,2,2,premier_league,13
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,13,22,12,10,2,6,4,3,2,5,3,2,3,2,7,7,1,3,premier_league,13
+8,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,13,21,22,21,1,6,3,4,2,7,11,2,2,1,15,10,2,4,premier_league,13
+9,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,13,16,13,14,-1,4,4,5,3,8,7,1,2,1,5,7,4,2,premier_league,13
+10,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,13,16,13,15,-2,4,4,5,2,10,9,3,3,2,3,6,2,1,premier_league,13
+11,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,13,15,9,19,-10,4,3,6,2,6,8,2,3,1,3,11,4,1,premier_league,13
+12,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,13,14,17,19,-2,3,5,5,1,8,8,3,2,4,9,11,2,1,premier_league,13
+13,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,13,14,11,14,-3,4,2,7,1,7,6,3,2,1,4,8,4,2,premier_league,13
+14,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,13,14,11,17,-6,4,2,7,1,7,8,3,3,1,4,9,4,1,premier_league,13
+15,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,13,13,16,26,-10,3,4,6,2,8,11,2,2,2,8,15,4,1,premier_league,13
+16,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,13,12,13,28,-15,3,3,7,0,8,12,3,3,3,5,16,4,0,premier_league,13
+17,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,13,11,10,19,-9,2,5,6,3,6,10,2,1,2,4,9,4,1,premier_league,13
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,13,10,12,26,-14,2,4,7,1,7,11,3,2,3,5,15,4,0,premier_league,13
+19,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,13,9,7,15,-8,2,3,8,1,4,10,5,1,2,3,5,3,1,premier_league,13
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,13,8,8,25,-17,2,2,9,2,8,12,3,2,0,0,13,6,0,premier_league,13
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,14,40,44,9,35,13,1,0,1,26,5,0,6,0,18,4,0,7,premier_league,14
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,14,32,32,8,24,10,2,2,0,20,1,0,7,2,12,7,2,3,premier_league,14
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,14,29,25,11,14,9,2,3,1,10,6,2,4,1,15,5,1,5,premier_league,14
+4,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,14,28,28,16,12,9,1,4,0,20,4,0,7,1,8,12,4,2,premier_league,14
+5,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,14,26,28,18,10,7,5,2,3,13,2,0,4,2,15,16,2,3,premier_league,14
+6,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,14,25,14,11,3,7,4,3,2,5,3,2,3,2,9,8,1,4,premier_league,14
+7,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,14,24,22,12,10,7,3,4,3,9,5,1,3,0,13,7,3,4,premier_league,14
+8,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,14,21,24,25,-1,6,3,5,2,9,15,3,2,1,15,10,2,4,premier_league,14
+9,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,14,17,19,20,-1,4,5,5,1,10,9,3,3,4,9,11,2,1,premier_league,14
+10,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,14,17,13,14,-1,4,5,5,4,8,7,1,2,1,5,7,4,2,premier_league,14
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,14,16,14,17,-3,4,4,6,2,10,9,3,3,2,4,8,3,1,premier_league,14
+12,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,14,15,13,19,-6,4,3,7,1,7,8,3,3,2,6,11,4,1,premier_league,14
+13,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,14,15,17,28,-11,4,3,7,0,12,12,3,4,3,5,16,4,0,premier_league,14
+14,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,14,15,9,24,-15,4,3,7,2,6,8,2,3,1,3,16,5,1,premier_league,14
+15,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,14,14,12,16,-4,4,2,8,1,8,8,4,2,1,4,8,4,2,premier_league,14
+16,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,14,13,16,29,-13,3,4,7,2,8,14,3,2,2,8,15,4,1,premier_league,14
+17,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,14,12,12,21,-9,2,6,6,4,8,12,2,1,2,4,9,4,1,premier_league,14
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,14,10,12,30,-18,2,4,8,1,7,11,3,2,3,5,19,5,0,premier_league,14
+19,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,14,9,7,16,-9,2,3,9,1,4,10,5,1,2,3,6,4,1,premier_league,14
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,14,9,8,25,-17,2,3,9,2,8,12,3,2,1,0,13,6,0,premier_league,14
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,15,43,46,10,36,14,1,0,1,28,6,0,7,0,18,4,0,7,premier_league,15
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,15,35,35,9,26,11,2,2,0,20,1,0,7,2,15,8,2,4,premier_league,15
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,15,32,28,12,16,10,2,3,1,13,7,2,5,1,15,5,1,5,premier_league,15
+4,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,15,29,33,19,14,8,5,2,3,13,2,0,4,2,20,17,2,4,premier_league,15
+5,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,15,28,29,19,10,9,1,5,0,21,7,1,7,1,8,12,4,2,premier_league,15
+6,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,15,25,23,13,10,7,4,4,3,9,5,1,3,1,14,8,3,4,premier_league,15
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,15,25,14,12,2,7,4,4,2,5,3,2,3,2,9,9,2,4,premier_league,15
+8,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,15,22,25,26,-1,6,4,5,3,10,16,3,2,1,15,10,2,4,premier_league,15
+9,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,15,20,20,20,0,5,5,5,1,11,9,3,4,4,9,11,2,1,premier_league,15
+10,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,15,18,19,28,-9,5,3,7,0,14,12,3,5,3,5,16,4,0,premier_league,15
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,15,17,15,18,-3,4,5,6,2,10,9,3,3,3,5,9,3,1,premier_league,15
+12,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,15,17,14,19,-5,4,5,6,4,9,12,2,2,1,5,7,4,2,premier_league,15
+13,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,15,16,18,30,-12,4,4,7,2,10,15,3,3,2,8,15,4,1,premier_league,15
+14,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,15,15,13,17,-4,4,3,8,2,9,9,4,2,1,4,8,4,2,premier_league,15
+15,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,15,15,14,22,-8,4,3,8,1,7,8,3,3,2,7,14,5,1,premier_league,15
+16,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,15,15,9,26,-17,4,3,8,2,6,8,2,3,1,3,18,6,1,premier_league,15
+17,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,15,13,12,21,-9,2,7,6,5,8,12,2,1,2,4,9,4,1,premier_league,15
+18,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,15,10,8,25,-17,2,4,9,2,8,12,3,2,2,0,13,6,0,premier_league,15
+19,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,15,10,13,32,-19,2,4,9,1,7,11,3,2,3,6,21,6,0,premier_league,15
+20,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,15,9,8,18,-10,2,3,10,1,4,10,5,1,2,4,8,5,1,premier_league,15
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,16,46,48,11,37,15,1,0,1,28,6,0,7,0,20,5,0,8,premier_league,16
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,16,35,36,11,25,11,2,3,0,21,3,1,7,2,15,8,2,4,premier_league,16
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,16,32,28,13,15,10,2,4,1,13,7,2,5,1,15,6,2,5,premier_league,16
+4,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,16,30,34,20,14,8,6,2,4,14,3,0,4,2,20,17,2,4,premier_league,16
+5,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,16,29,30,20,10,9,2,5,0,21,7,1,7,2,9,13,4,2,premier_league,16
+6,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,16,28,28,14,14,8,4,4,3,14,6,1,4,1,14,8,3,4,premier_league,16
+7,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,16,28,15,12,3,8,4,4,2,6,3,2,4,2,9,9,2,4,premier_league,16
+8,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,16,23,23,22,1,6,5,5,1,11,9,3,4,4,12,13,2,2,premier_league,16
+9,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,16,22,25,27,-2,6,4,6,3,10,16,3,2,1,15,11,3,4,premier_league,16
+10,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,16,19,20,29,-9,5,4,7,0,14,12,3,5,4,6,17,4,0,premier_league,16
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,16,18,16,19,-3,4,6,6,3,11,10,3,3,3,5,9,3,1,premier_league,16
+12,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,16,18,11,26,-15,5,3,8,2,8,8,2,4,1,3,18,6,1,premier_league,16
+13,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,16,17,14,21,-7,4,5,7,4,9,12,2,2,1,5,9,5,2,premier_league,16
+14,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,16,16,15,19,-4,4,4,8,2,9,9,4,2,2,6,10,4,2,premier_league,16
+15,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,16,16,19,35,-16,4,4,8,2,10,15,3,3,2,9,20,5,1,premier_league,16
+16,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,16,15,16,25,-9,4,3,9,1,9,11,4,3,2,7,14,5,1,premier_league,16
+17,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,16,13,12,22,-10,2,7,7,5,8,12,2,1,2,4,10,5,1,premier_league,16
+18,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,16,13,14,32,-18,3,4,9,1,8,11,3,3,3,6,21,6,0,premier_league,16
+19,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,16,12,9,18,-9,3,3,10,1,5,10,5,2,2,4,8,5,1,premier_league,16
+20,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,16,11,10,27,-17,2,5,9,3,10,14,3,2,2,0,13,6,0,premier_league,16
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,17,49,52,11,41,16,1,0,1,28,6,0,7,0,24,5,0,9,premier_league,17
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,17,38,37,11,26,12,2,3,0,22,3,1,8,2,15,8,2,4,premier_league,17
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,17,35,31,14,17,11,2,4,1,13,7,2,5,1,18,7,2,6,premier_league,17
+4,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,17,31,30,14,16,9,4,4,3,16,6,1,5,1,14,8,3,4,premier_league,17
+5,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,17,31,34,20,14,8,7,2,5,14,3,0,4,2,20,17,2,4,premier_league,17
+6,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,17,31,16,12,4,9,4,4,2,7,3,2,5,2,9,9,2,4,premier_league,17
+7,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,17,30,30,20,10,9,3,5,0,21,7,1,7,3,9,13,4,2,premier_league,17
+8,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,17,26,27,23,4,7,5,5,1,11,9,3,4,4,16,14,2,3,premier_league,17
+9,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,17,22,26,29,-3,6,4,7,3,10,16,3,2,1,16,13,4,4,premier_league,17
+10,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,17,22,21,29,-8,6,4,7,0,14,12,3,5,4,7,17,4,1,premier_league,17
+11,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,17,18,17,23,-6,4,6,7,3,12,14,4,3,3,5,9,3,1,premier_league,17
+12,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,17,18,12,29,-17,5,3,9,2,9,11,3,4,1,3,18,6,1,premier_league,17
+13,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,17,17,14,23,-9,4,5,8,4,9,12,2,2,1,5,11,6,2,premier_league,17
+14,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,17,16,15,20,-5,4,4,9,2,9,9,4,2,2,6,11,5,2,premier_league,17
+15,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,17,16,19,36,-17,4,4,9,2,10,15,3,3,2,9,21,6,1,premier_league,17
+16,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,17,15,16,26,-10,4,3,10,1,9,12,5,3,2,7,14,5,1,premier_league,17
+17,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,17,14,12,22,-10,2,8,7,5,8,12,2,1,3,4,10,5,1,premier_league,17
+18,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,17,14,12,28,-16,3,5,9,3,12,15,3,3,2,0,13,6,0,premier_league,17
+19,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,17,14,14,32,-18,3,5,9,2,8,11,3,3,3,6,21,6,0,premier_league,17
+20,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,17,12,9,22,-13,3,3,11,1,5,14,6,2,2,4,8,5,1,premier_league,17
+1,Manchester City FC,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,18,52,56,12,44,17,1,0,1,32,7,0,8,0,24,5,0,9,premier_league,18
+2,Manchester United FC,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,17,38,37,11,26,12,2,3,0,22,3,1,8,2,15,8,2,4,premier_league,18
+3,Chelsea FC,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,18,38,32,14,18,12,2,4,1,14,7,2,6,1,18,7,2,6,premier_league,18
+4,Arsenal FC,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,18,33,31,20,11,10,3,5,0,22,7,1,8,3,9,13,4,2,premier_league,18
+5,Burnley FC,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,18,32,16,12,4,9,5,4,2,7,3,2,5,3,9,9,2,4,premier_league,18
+6,Liverpool FC,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,17,31,34,20,14,8,7,2,5,14,3,0,4,2,20,17,2,4,premier_league,18
+7,Tottenham Hotspur FC,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,18,31,31,18,13,9,4,5,3,16,6,1,5,1,15,12,4,4,premier_league,18
+8,Leicester City FC,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,18,26,27,26,1,7,5,6,1,11,12,4,4,4,16,14,2,3,premier_league,18
+9,Watford FC,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,18,22,27,33,-6,6,4,8,3,11,20,4,2,1,16,13,4,4,premier_league,18
+10,Everton FC,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,17,22,21,29,-8,6,4,7,0,14,12,3,5,4,7,17,4,1,premier_league,18
+11,Huddersfield Town,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,18,21,16,30,-14,6,3,9,2,9,11,3,4,1,7,19,6,2,premier_league,18
+12,Southampton FC,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,18,18,17,24,-7,4,6,8,3,12,14,4,3,3,5,10,4,1,premier_league,18
+13,Brighton & Hove Albion,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,18,18,14,23,-9,4,6,8,5,9,12,2,2,1,5,11,6,2,premier_league,18
+14,Crystal Palace FC,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,18,17,15,28,-13,4,5,9,3,12,15,3,3,2,3,13,6,1,premier_league,18
+15,West Ham United FC,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,18,17,17,32,-15,4,5,9,2,8,11,3,3,3,9,21,6,1,premier_league,18
+16,AFC Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,17,16,15,20,-5,4,4,9,2,9,9,4,2,2,6,11,5,2,premier_league,18
+17,Stoke City FC,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,18,16,19,39,-20,4,4,10,2,10,18,4,3,2,9,21,6,1,premier_league,18
+18,Newcastle United FC,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,18,15,16,27,-11,4,3,11,1,9,12,5,3,2,7,15,6,1,premier_league,18
+19,West Bromwich Albion FC,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,17,14,12,22,-10,2,8,7,5,8,12,2,1,3,4,10,5,1,premier_league,18
+20,Swansea City FC,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,17,12,9,22,-13,3,3,11,1,5,14,6,2,2,4,8,5,1,premier_league,18
